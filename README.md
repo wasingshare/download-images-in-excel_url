@@ -9,5 +9,5 @@ https://github.com/pyinstaller/pyinstaller/issues/3740
 # V2.0:新增人员信息收集平台导出的excel（两种模式，企业和学校） date:20200327
 # V3.0:适配一个人员信息存在多个照片链接的情况 date:20200609
 # V3.1:打印日志 date:20200622
-# V4.0:新增【新火瞳平台人员信息导出的列表人脸照片下载】
+# V4.0:新增【新火瞳平台人员信息导出的列表人脸照片下载】date:20200720
 # 作者：tellmorning@outlook.com
