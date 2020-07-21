@@ -1,8 +1,5 @@
-# waston
-download images in excel_url
-
-if you have some trouble in [pyinstaller],you can find the answer in the url below.
-https://github.com/pyinstaller/pyinstaller/issues/3740
+ # 操作说明：
+ # 可以下载excel文件中链接的照片文件，并以excel中的某一列命名。
 
 # 更新说明
 # V1.0:可下载火瞳主版本平台人员信息列表导出的excel的照片 date:20191226
